@@ -11,5 +11,5 @@ const Button = ({ bgColor, color, size, text, borderRadius }) => {
     </button>
   )
 }
-
+console.log("Hola");
 export default Button
